@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @zbh123 Sign out
-379
-2,789 2,930 michaelliao/learn-python3
- Code  Issues 4  Pull requests 7  Projects 0  Wiki  Insights
-learn-python3/samples/advance/do_iter.py
-aed8fae  on 16 May 2015
-@michaelliao michaelliao update iter sample
-     
-Executable File  65 lines (51 sloc)  1.47 KB
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -79,19 +62,7 @@ for i, value in enumerate(['A', 'B', 'C']):
 print('iter [(1, 1), (2, 4), (3, 9)]:')
 for x, y in [(1, 1), (2, 4), (3, 9)]:
     print(x, y)
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
+
 
 def findMinAndMax(L):
   if len(L) == 0:
